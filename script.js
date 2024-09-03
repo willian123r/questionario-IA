@@ -6,15 +6,17 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
-        alternativas: [
+        enunciado: Dança é a arte de movimentar expressivamente o corpo seguindo movimentos ritmados, em geral ao som de música.
+
+        A dança é praticada desde os tempos pré-históricos, e por isso geralmente se diz que ela é uma expressão cultural que acompanha a humanidade. É considerada uma arte completa, sendo capaz de exprimir tanto as mais simples quanto as mais fortes emoções
+        você pratica muuita dança
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto:sim 
+                afirmacao: "sim, pois gosto muito e dançar me ajuda muito com meus sentimentos. "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: não
+                afirmacao: "Não pois não gosto de dançar"
             }
         ]
     },
